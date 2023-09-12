@@ -1,0 +1,33 @@
+ As a customer
+
+i want to login
+
+so that i can successful login to E dessart application
+
+Scope
+
+customer should be able to login
+
+Per - condition
+
+customer should have there own details to login
+
+Acceptance criteria
+
+scenario1
+
+customer can login the application succesfully
+
+customer must give the vaild details to login
+
+customer can login the pagr succesfully
+
+scenaroi 2
+
+customer can’t login the application succesfully
+
+customer must give the in- vaild details to login
+
+customer can 't login the pageccesfully
+
+Details
